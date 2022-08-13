@@ -16,7 +16,7 @@ dotfiles for my different machines
 Uses:
 - oh-my-posh
 - Nerd-Fonts
-- Dracula Scheme
+- Dracula color Scheme
 
 <img src="./images/windows-terminal.JPG" alt="Terminal Image" style="height: auto; width:800px;"/>
 
