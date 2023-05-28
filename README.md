@@ -25,7 +25,7 @@ dotfiles for my different machines
 -   Prompt: [Oh-my-zsh]([https://ohmyposh.dev/docs/installation/windows](https://ohmyz.sh/))
 -   Directory Jumper: [ranger](https://github.com/ranger/ranger)
 
-<img src="./images/wsl.png" alt="Powershell" style="height: auto; width:800px;"/>
+<img src="./images/wsl.PNG" alt="Powershell" style="height: auto; width:800px;"/>
 <hr>
 
 ### PowerShell
@@ -36,6 +36,6 @@ dotfiles for my different machines
 - Editor: [NeoVim](https://github.com/neovim/neovim)
 - Theme : [Bright Lights](https://windowsterminalthemes.dev/?theme=Bright%20Lights)
 
-<img src="./images/pwsh.png" alt="Powershell" style="height: auto; width:800px;"/>
+<img src="./images/pwsh.PNG" alt="Powershell" style="height: auto; width:800px;"/>
 
 I'll add links to everything and a script to automate this soon.  :)
