@@ -3,12 +3,15 @@ dotfiles for my different machines
 
 ## arch
 
-### Wayland dotfiles
+### X11 dotfiles
 
--   Compositor: [River](https://github.com/riverwm/river)
--   Bar: [Waybar](https://github.com/Alexays/Waybar)
--   Notification daemon: [Mako](https://github.com/emersion/mako)
+-   WM: [dwm](https://dwm.suckless.org/)
+-   Menu: [dmenu](https://git.suckless.org/dmenu/)
+-   Terminal: [st](https://st.suckless.org/)
 -   Editor: [NeoVim](https://github.com/neovim/neovim)
+
+<img src="./images/Home.PNG" alt="Home Page" style="height: auto; width:800px;"/>
+<img src="./images/shell.JPG" alt="Shell in WM" style="height: auto; width:800px;"/>
 
 
 ## windows
